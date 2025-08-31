@@ -1,4 +1,4 @@
-# 🔢 Sudoku Solver - Backtracking Algorithm in Python
+# Sudoku Solver - Backtracking Algorithm in Python
 
 [![GPLv3 License](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
